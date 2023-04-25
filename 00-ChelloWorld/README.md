@@ -1,6 +1,6 @@
 # SSL
 
-compilador: gcc 
+compilador: Myngw32
 
 standar de c: c17
 
